@@ -7,7 +7,7 @@
 
 ## Description 
 This application uses Node, Express, MySQL, and Sequelize to model the backend functionality of a digitial or electronic store by using GET, POST, DELETE and other routes to keep track of products and other important data.
-Major learning areas of this application were creating api endpoint routes with async and await functions and testing in Insomnia.
+Major learning areas of this application were creating api endpoint routes with async and await functions, understanding Object Relational Mapping (ORM) and testing in Insomnia.
 
 ## Table of Contents
 * [Description of Application](#description)
