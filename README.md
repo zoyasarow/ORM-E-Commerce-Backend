@@ -1,7 +1,7 @@
 
 ![Github License](https://img.shields.io/badge/License-GPLv3-yellow.svg)
 
-# Sequelize E-Commerce Backend App
+# ORM E-Commerce Backend App
 
 [Demo Video](https://drive.google.com/file/d/1pI8bk--Tu2W2Fjeu77a8Yo14LsVEKhJu/view?usp=sharing)
 
