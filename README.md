@@ -27,8 +27,8 @@ Required dependencies in order for this application to run inlcude an
 * npm install sequelize
       
 ## Usage Information 
-To start the application, begin by updating the .env.EXAMPLE file with your mysql username & password and rename the file to .env 
-Navigate to the db folder and run mysql -u root -p, once the mysql server starts, run source schema.sql and quit the server. Navigate back to the root directory and run node seeds/index.js to grab the seeds data. Finally, begin the node server by running node server.js. Use Insomnia to test and manipulate api routes! 
+To start the application, begin by updating the .env.EXAMPLE file with your mysql username & password and rename the file to .env. 
+Navigate to the db folder and run mysql -u root -p, once the mysql server starts, run source schema.sql and quit the server. Next, navigate back to the root directory and run node seeds/index.js to grab the seeds data. Finally, begin the node server by running node server.js. Use Insomnia to test and manipulate api routes! 
         
 ## Contributions & Credit 
 There were no collaborators 
